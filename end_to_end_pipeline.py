@@ -30,7 +30,7 @@ def main():
     parser.add_argument("--input", default=DEFAULT_INPUT_XLSX, help="Path to input Excel/CSV (default: data/test.xlsx)")
     parser.add_argument("--sheet", default=None, help="Optional sheet name if the input is an Excel file")
     parser.add_argument("--outcsv", default=DEFAULT_OUTPUT_CSV, help="Output CSV in project root (default: test.csv)")
-    parser.add_argument("--k", type=int, default=20, help="BM25 top-k per query (default: 20)")
+    parser.add_argument("--k", type=int, default=25, help="BM25 top-k per query (default: 25)")
     args = parser.parse_args()
 
     t0 = time.time()
@@ -94,7 +94,7 @@ def main():
         ranked = rank_candidates(text, etype, system, cands)
 
         # apply display preference using the full vocab of that system
-        ranked = apply_display_for_candidates(system, ranked, vocabs[system])
+        ranked = apply_display_for_candidates(system, ranked, vocabs[system], entity_type=etype)
 
         # pick top-1
         if ranked is not None and not ranked.empty:
