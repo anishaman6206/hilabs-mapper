@@ -52,7 +52,7 @@ def _explicit_small_map() -> Dict[str, str]:
     # A few common expansions regardless of vocab
     return {
         "us": "ultrasound",
-        "sono": "ultrasound",
+        "sono": "ultrasonography",
         "prom": "premature rupture of membranes",
         "ct": "computed tomography",
         "mri": "magnetic resonance imaging",
