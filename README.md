@@ -164,3 +164,41 @@ flowchart TD
     C3 --> D1
     D3 --> E[Final Top-1 Prediction]
 ```
+
+---
+
+## ✅ Example Run
+
+```bash
+python end_to_end_pipeline.py
+```
+
+Sample terminal output:
+
+```
+Loading vocabularies (SNOMEDCT_US, RXNORM)…
+Loaded acronym cache → data/.cache/acronyms.json
+Building BM25 retrievers… please wait 30-60 seconds
+Retrievers ready.
+Running end-to-end mappings…
+
+----------------------------------------
+Input: mri pelvis  |  Type: Procedure  |  System: SNOMEDCT_US
+Top candidates:
+ TTY      CODE                                   STR  final_score
+  PT 433138001        MRI of pelvis with contrast     0.250000
+  PT 113091000         Magnetic resonance imaging     0.200000
+  PT   2690005                      MRI of pelvis     0.166667
+
+----------------------------------------
+Input: aspirin 81 mg tablet  |  Type: Medicine  |  System: RXNORM
+Top candidates:
+ TTY   CODE                                    STR  final_score
+SCDC 315431                          aspirin 81 MG     0.800000
+ SBD 211893 aspirin 81 MG Oral Tablet [Acuprin 81]     0.666667
+SBDC 572222             aspirin 81 MG [Acuprin 81]     0.600000
+
+Done. Mapping time: 120.5s  |  Total time: 180.2s
+Writing predictions back to Excel → data/test.xlsx
+Wrote CSV snapshot → test.csv
+```
