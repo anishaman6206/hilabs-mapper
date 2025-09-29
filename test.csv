@@ -1,0 +1,401 @@
+﻿Input Entity Description,Entity Type,Output Coding System,Output Target Code,Output Target Description
+mri pelvis,Procedure,SNOMEDCT_US,2690005,MRI of pelvis
+hcv rna,Procedure,SNOMEDCT_US,11705000,RNA virus
+depression screen,Procedure,SNOMEDCT_US,450752004,Whooley depression screen
+induction for prom,Procedure,SNOMEDCT_US,44223004,Premature rupture of membranes
+polypectomy,Procedure,SNOMEDCT_US,82035006,Resection of polyp
+tympanic tube insertion,Procedure,SNOMEDCT_US,416735007,Tympanic ventilation tube
+right salpingectomy,Procedure,SNOMEDCT_US,176916000,Right salpingectomy
+blood phiebotomy,Procedure,SNOMEDCT_US,87612001,Blood
+color and spectral doppler,Procedure,SNOMEDCT_US,423736003,Color Doppler ultrasound
+coronary angioplasty,Procedure,SNOMEDCT_US,41339005,Coronary angioplasty
+sono,Procedure,SNOMEDCT_US,16310003,Ultrasonography
+transvaginal ultrasound procedure,Procedure,SNOMEDCT_US,13205008,Transvaginal echography
+intracytoplasmic sperm injection,Procedure,SNOMEDCT_US,425901007,In vitro fertilization with intracytoplasmic spermatozoa injection
+ct brain,Procedure,SNOMEDCT_US,34227000,CT of brain
+iud removal,Procedure,SNOMEDCT_US,169484002,IUD removal awaited
+psychotherapy follow-up,Procedure,SNOMEDCT_US,308273005,Follow-up status
+hpv dna,Procedure,SNOMEDCT_US,35904009,Human papillomavirus DNA detection
+chd repair,Procedure,SNOMEDCT_US,30174008,Childhood hypophosphatasia
+g1- vaginal delivery,Procedure,SNOMEDCT_US,289259007,Vaginal delivery
+renal bladder ultrasound,Procedure,SNOMEDCT_US,786917009,Ultrasound urinary bladder vibrometry
+depression screening,Procedure,SNOMEDCT_US,171207006,Depression screening
+spinal anesthesia,Procedure,SNOMEDCT_US,231249005,Spinal anesthesia
+body image counseling,Procedure,SNOMEDCT_US,225421002,Change in body image counseling
+endometrial biopsy,Procedure,SNOMEDCT_US,386802000,Endometrial biopsy
+cognitive behavioral therapy,Procedure,SNOMEDCT_US,228557008,Cognitive and behavioral therapy
+epidural asa,Procedure,SNOMEDCT_US,387501005,Mesalamine
+contraception vasectomy,Procedure,SNOMEDCT_US,22523008,Vasectomy
+drainage of skin abscess,Procedure,SNOMEDCT_US,447075007,Drainage of abscess of skin
+mcv,Procedure,SNOMEDCT_US,165454002,Mean corpuscular volume above reference range
+osteoporosis screening,Procedure,SNOMEDCT_US,124801000119108,Osteoporosis screening declined
+splenectomy,Procedure,SNOMEDCT_US,234319005,Splenectomy
+dental procedure,Procedure,SNOMEDCT_US,25325009,Dental alveoplasty
+abdominal us,Procedure,SNOMEDCT_US,45036003,Ultrasonography of abdomen
+vision screen vision screen,Procedure,SNOMEDCT_US,466738006,Bedside screen
+right foot x-ray,Procedure,SNOMEDCT_US,426311001,Plain X-ray of right foot
+pilonidal cyst removal,Procedure,SNOMEDCT_US,47639008,Pilonidal cyst
+color flow doppler,Procedure,SNOMEDCT_US,261197005,Doppler color flow - action
+total hysterectomy oophorectomy,Procedure,SNOMEDCT_US,739671004,Total hysterectomy with left oophorectomy
+vaginal laceration repair,Procedure,SNOMEDCT_US,314487008,Anterior mesh vaginal repair
+biopsy of right cervical lymph node procedure,Procedure,SNOMEDCT_US,234270003,Biopsy of cervical lymph node
+excision of lesion of breast,Procedure,SNOMEDCT_US,392023007,Excision of lesion of breast
+staple removal,Procedure,SNOMEDCT_US,56353002,Staple
+c-sections,Procedure,SNOMEDCT_US,257962003,C
+head us,Procedure,SNOMEDCT_US,241449005,US scan of head
+mri abdomen,Procedure,SNOMEDCT_US,241621009,MRI of abdomen
+cabg,Procedure,SNOMEDCT_US,232717009,Coronary artery bypass graft
+fasciotomies,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+ovary removal,Procedure,SNOMEDCT_US,15497006,Ovarian structure
+chd screen,Procedure,SNOMEDCT_US,30174008,Childhood hypophosphatasia
+cardiac valve replacement,Procedure,SNOMEDCT_US,449621000124100,Porcine cardiac valve replacement
+right lumpectomy,Procedure,SNOMEDCT_US,735086001,Lumpectomy of right breast
+fetal echo with mfm,Procedure,SNOMEDCT_US,395803001,Mometasone furoate monohydrate
+pediatric vision screen,Procedure,SNOMEDCT_US,117609005,Herbicide screen
+wchc ultrasound,Procedure,SNOMEDCT_US,16310003,Ultrasonography
+pacemaker insertion,Procedure,SNOMEDCT_US,54356007,Insertion of carotid pacemaker
+pelvic us,Procedure,SNOMEDCT_US,419553002,US scan of pelvic vessels
+partial l mastectomy,Procedure,SNOMEDCT_US,64368001,Partial mastectomy
+ivf,Procedure,SNOMEDCT_US,469571006,IVF medium
+re-exploratory laparotomy removal,Procedure,SNOMEDCT_US,74770008,Exploratory laparotomy
+amniocentess,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+bilateral hip ultrasound,Procedure,SNOMEDCT_US,304909008,Bilateral hip joint
+tooth removed circumcised,Procedure,SNOMEDCT_US,260897002,Moiety removed
+screening for malignant neoplasm of cervix,Procedure,SNOMEDCT_US,171149006,Screening for malignant neoplasm of cervix
+blood products transfused,Procedure,SNOMEDCT_US,217005002,Mismatched blood transfused
+dm screening,Procedure,SNOMEDCT_US,111132001,Nitrous oxide
+fetal u/s,Procedure,SNOMEDCT_US,257999003,u
+chemo,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+breech birth,Procedure,SNOMEDCT_US,249116009,Breech engaged
+hip u/s,Procedure,SNOMEDCT_US,203072009,Contracture of adductor muscle(s) of hip
+cpap,Procedure,SNOMEDCT_US,704718009,CPAP/BPAP oral mask
+loop electrical excision procedure,Procedure,SNOMEDCT_US,36899001,Loop electrosurgical excision procedure
+angiogram,Procedure,SNOMEDCT_US,77343006,Angiography
+omphalocele closure,Procedure,SNOMEDCT_US,30502000,Repair of omphalocele
+myosure,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+body lithotomy,Procedure,SNOMEDCT_US,123678003,Lithotomy
+blood sinsfusions,Procedure,SNOMEDCT_US,87612001,Blood
+breast biopsy,Procedure,SNOMEDCT_US,122548005,Biopsy of breast
+carotid ultrasound,Procedure,SNOMEDCT_US,276021004,Ultrasonography of carotid artery
+screening annual mammography,Procedure,SNOMEDCT_US,24623002,Screening mammography
+transfused prbc,Procedure,SNOMEDCT_US,71493000,Transfusion of packed red blood cells
+circumcision counseling,Procedure,SNOMEDCT_US,72310004,Circumcision
+ultrasound of fetal anatomy,Procedure,SNOMEDCT_US,710165007,Ultrasonography of fetal head
+color doppler,Procedure,SNOMEDCT_US,423736003,Color Doppler ultrasound
+dna screening,Procedure,SNOMEDCT_US,36387003,DNA-directed DNA polymerase
+blood-drawphlebotomy,Procedure,SNOMEDCT_US,87612001,Blood
+peripheral stem call transplant,Procedure,SNOMEDCT_US,420942008,Call
+xr chest portable,Procedure,SNOMEDCT_US,48244007,L-xylulose reductase
+vulvar biopsy,Procedure,SNOMEDCT_US,274942001,Biopsy of vulva
+digital tomosynthesis,Procedure,SNOMEDCT_US,1331948002,Digital tomosynthesis - action
+hpv screening,Procedure,SNOMEDCT_US,67778008,Human papillomavirus typing
+lead blood,Procedure,SNOMEDCT_US,35833009,"Lead screening, blood"
+nuchal translucency ultrasound,Procedure,SNOMEDCT_US,144201000119107,Fetal ultrasound increased nuchal translucency
+remove pacemaker,Procedure,SNOMEDCT_US,234668000,Remove jaw implant
+picc placement,Procedure,SNOMEDCT_US,1021000119106,Peripherally inserted central venous catheter in situ
+transuaginal us,Procedure,SNOMEDCT_US,412129003,Ubidecarenone
+encounter for screening for human papillomavirus,Procedure,SNOMEDCT_US,736427008,Screening for Human papillomavirus declined
+afp,Procedure,SNOMEDCT_US,80152001,Alpha-1-Fetoprotein measurement
+screen for std,Procedure,SNOMEDCT_US,309932005,Genitourinary medicine department
+red blood cell transfusion,Procedure,SNOMEDCT_US,41898006,Erythrocyte
+colonescopy,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+anticardiolipin antibody,Lab,SNOMEDCT_US,65946008,Anticardiolipin antibody measurement
+human papilloma virus,Lab,SNOMEDCT_US,240532009,Human papilloma virus infection
+preg test u,Lab,SNOMEDCT_US,12018003,Trichophyton extract skin test
+hemoglobin alc,Lab,SNOMEDCT_US,425953004,Amphotericin B lipid complex
+tibc + ferritin serum,Lab,SNOMEDCT_US,275759006,Serum ferritin/TIBC measurement
+liver enzymee,Lab,SNOMEDCT_US,10200004,Liver structure
+maternal antibody screen,Lab,SNOMEDCT_US,312313001,Maternal antibody
+bile acids total,Lab,SNOMEDCT_US,5264008,Total bile acids measurement
+neutrophil,Lab,SNOMEDCT_US,30630007,Neutrophil count
+globulin cale,Lab,SNOMEDCT_US,371150009,Able
+alanine aminotransferase,Lab,SNOMEDCT_US,56935002,Alanine aminotransferase
+creatine,Lab,SNOMEDCT_US,14804005,Creatine
+antiphospholipid ab,Lab,SNOMEDCT_US,264781008,AB hearing assessment list
+triglycerick,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+hb a2,Lab,SNOMEDCT_US,71935002,Hemoglobin A>2<
+hepistitis c screening,Lab,SNOMEDCT_US,413107006,Hepatitis C screening
+rbc antibody screen,Lab,SNOMEDCT_US,89754000,RBC antibody detection
+lymphocyte s,Lab,SNOMEDCT_US,405888005,S+s+ phenotype
+urinalysis w/reflex microscopic,Lab,SNOMEDCT_US,127800008,Microscopic urinalysis
+hiv nucleic acid testing,Lab,SNOMEDCT_US,398579006,HIV 1 nucleic acid assay
+chloride,Lab,SNOMEDCT_US,50213009,Chloride salt
+antibody total serum hiv,Lab,SNOMEDCT_US,259855002,Human immunodeficiency virus antibody
+eosinophil absolute count,Lab,SNOMEDCT_US,365601007,Eosinophil count - finding
+"ketones, urine",Lab,SNOMEDCT_US,401762009,Urine ketones testing strips
+hsv antibodies,Lab,SNOMEDCT_US,9389005,Herpes simplex keratitis
+lactate,Lab,SNOMEDCT_US,83036002,Lactate
+aspartate aminotrans,Lab,SNOMEDCT_US,430504000,Aspartate
+microalbumin/creatinine ratio,Lab,SNOMEDCT_US,271076007,Urine microalbumin/creatinine ratio measurement
+protein/creatining panel,Lab,SNOMEDCT_US,54610007,Kidney panel
+basophils,Lab,SNOMEDCT_US,417389002,Disorder of basophils
+b varicella zosten antibody,Lab,SNOMEDCT_US,77525008,B cell antibody
+total iron,Lab,SNOMEDCT_US,117173006,Total iron binding capacity
+candida krusei pcr,Lab,SNOMEDCT_US,9718006,Polymerase chain reaction analysis
+"partial thromboplastin time, activated",Lab,SNOMEDCT_US,42525009,"Partial thromboplastin time, activated"
+gclchlamydia urine,Lab,SNOMEDCT_US,78014005,Urine
+iga ab,Lab,SNOMEDCT_US,708770002,Rotavirus IgA
+ketones chemistry urine,Lab,SNOMEDCT_US,401762009,Urine ketones testing strips
+serum folate serum,Lab,SNOMEDCT_US,165649003,Serum folate within reference range
+leuks,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+blood count,Lab,SNOMEDCT_US,26604007,Complete blood count
+influenza a + b pcr,Lab,SNOMEDCT_US,68174001,Pyrroline-2-carboxylate reductase
+fetal hgb stain,Lab,SNOMEDCT_US,38082009,Hemoglobin
+hiv exposure test,Lab,SNOMEDCT_US,31676001,HIV antigen test
+bilo acids,Lab,SNOMEDCT_US,259544005,Conjugated bile acids
+ast labs,Lab,SNOMEDCT_US,45896001,Aspartate aminotransferase measurement
+alpha-fetoprotein test,Lab,SNOMEDCT_US,275833003,Alpha-fetoprotein test - antenatal
+hdl panel,Lab,SNOMEDCT_US,9422000,High density lipoprotein
+chol/hdlc ratio,Lab,SNOMEDCT_US,313811003,Cholesterol/HDL ratio measurement
+wound culture + smear,Lab,SNOMEDCT_US,401294003,"Wound microscopy, culture and sensitivities"
+protein 24h un,Lab,SNOMEDCT_US,61466002,Uridine nucleosidase
+protein. total,Lab,SNOMEDCT_US,304383000,Total protein measurement
+ggt,Lab,SNOMEDCT_US,60153001,Gamma-glutamyltransferase
+hemoglobin c,Lab,SNOMEDCT_US,61967003,Hemoglobin C
+growth hormone,Lab,SNOMEDCT_US,75476008,Bovine growth hormone
+erythrocyte sediment rate,Lab,SNOMEDCT_US,365649001,Erythrocyte sedimentation rate - finding
+ferritin scrum,Lab,SNOMEDCT_US,32789000,Ferritin
+reactive hepatitis c antibody,Lab,SNOMEDCT_US,72165005,Hepatitis C virus antibody
+islet cell antibodies,Lab,SNOMEDCT_US,274944000,Islet cell adenomatosis
+tacrolimus level,Lab,SNOMEDCT_US,391379002,Blood tacrolimus level
+reactive hiv-1 antigen,Lab,SNOMEDCT_US,117747006,HIV 1 antigen assay
+urobilinogen urine,Lab,SNOMEDCT_US,67410005,"Urobilinogen measurement, urine"
+immature retic fraction,Lab,SNOMEDCT_US,413042008,Immature reticulocyte fraction
+"lactic acid, plasma",Lab,SNOMEDCT_US,77370004,Lactic acid
+protein/creatining ratio,Lab,SNOMEDCT_US,124013006,Serum protein ratio
+hgb a2,Lab,SNOMEDCT_US,38082009,Hemoglobin
+ldl chol,Lab,SNOMEDCT_US,22244007,Low density lipoprotein
+hep c,Lab,SNOMEDCT_US,25525005,Protein C
+ua reflex,Lab,SNOMEDCT_US,87572000,Reflex
+total testosterone,Lab,SNOMEDCT_US,85470006,"Testosterone measurement, total"
+hemoglobinopathy screen,Lab,SNOMEDCT_US,80141007,Hemoglobinopathy
+cbc w/ differential,Lab,SNOMEDCT_US,43789009,Complete blood count without differential
+hpv type 18,Lab,SNOMEDCT_US,766848007,Human papillomavirus type 18 L1 capsid protein antigen
+urinalysis with reflex,Lab,SNOMEDCT_US,442468009,Urinalysis with reflex to microscopy
+flbrinogen,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+alt) aspartate 15,Lab,SNOMEDCT_US,34608000,Alanine aminotransferase measurement
+urineculture,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+o2 level,Lab,SNOMEDCT_US,455651000124105,US Military Commissioned Officer O2
+urine opiates,Lab,SNOMEDCT_US,314083002,Urine opiates screening test
+hgb electrophorosis,Lab,SNOMEDCT_US,38082009,Hemoglobin
+rapid flu b,Lab,SNOMEDCT_US,6142004,Influenza
+hemoglobin a1c percent,Lab,SNOMEDCT_US,733830002,Glycated hemoglobin-A1c
+liver profile,Lab,SNOMEDCT_US,700501004,DoloTest profile
+ana antibody screen,Lab,SNOMEDCT_US,45530001,Antinuclear antibody
+wbc. ur,Lab,SNOMEDCT_US,52501007,Leukocyte
+hep c antibody,Lab,SNOMEDCT_US,25525005,Protein C
+plt plt,Lab,SNOMEDCT_US,16378004,Platelet
+ph. urine,Lab,SNOMEDCT_US,271348005,Urine dipstick for pH
+ck2,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+fibrinogen titer,Lab,SNOMEDCT_US,397636002,Fibrinogen titer
+influenza a by,Lab,SNOMEDCT_US,442438000,Influenza caused by Influenza A virus
+prenatal glucose tolerance,Lab,SNOMEDCT_US,9414007,Impaired glucose tolerance
+absolute monocytes,Lab,SNOMEDCT_US,56136002,Absolute
+vitamin d levels,Lab,SNOMEDCT_US,767613006,Vitamin D analog
+specific gravity urine dipstick,Lab,SNOMEDCT_US,252386004,Urine dipstick for specific gravity
+vaginal organism swab,Lab,SNOMEDCT_US,258520000,Vaginal swab
+stool occult blood,Lab,SNOMEDCT_US,59614000,Occult blood detected in feces
+glucose load testing,Lab,SNOMEDCT_US,1268649009,Viral load
+influenza a+b ag,Lab,SNOMEDCT_US,121008006,Influenza B virus antigen
+chco3,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+cbc w/diff,Lab,SNOMEDCT_US,43789009,Complete blood count without differential
+sore thraot,Diagnosis,SNOMEDCT_US,410713007,Sore sensation quality
+hyperglycernia,Diagnosis,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+fast breathing,Diagnosis,SNOMEDCT_US,227998008,Convenience food
+subgaleal bleed,Diagnosis,SNOMEDCT_US,89361003,Subgaleal area
+thyroid disorders,Diagnosis,SNOMEDCT_US,64572001,Disease
+ocd,Diagnosis,SNOMEDCT_US,82562007,Osteochondritis dissecans
+adhd anxiety,Diagnosis,SNOMEDCT_US,117431000119101,Long term current use of drug therapy for attention deficit hyperactivity disorder
+heart murmur of newborns,Diagnosis,SNOMEDCT_US,421493004,Heart murmur
+retractions,Diagnosis,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+flexural eczema,Diagnosis,SNOMEDCT_US,57092006,Flexural eczema
+diabetes mellitus prediabetic,Diagnosis,SNOMEDCT_US,73211009,Diabetes mellitus
+parotid swelling,Diagnosis,SNOMEDCT_US,271613005,Parotid swelling
+stomach cancer,Diagnosis,SNOMEDCT_US,363349007,Malignant tumor of stomach
+house dust mite allergy,Diagnosis,SNOMEDCT_US,232350006,Allergy to dust mite protein
+nausea & vomiting,Diagnosis,SNOMEDCT_US,16932000,Nausea and vomiting
+herpes zoster without complication,Diagnosis,SNOMEDCT_US,111859007,Herpes zoster without complication
+itching on the palms of her hands,Diagnosis,SNOMEDCT_US,890090001,Itching of both hands
+bilateral non-pitting edema of legs,Diagnosis,SNOMEDCT_US,420435001,Non-pitting edema
+allergic rhinitis,Diagnosis,SNOMEDCT_US,61582004,Allergic rhinitis
+pure hypercholesterolemiz,Diagnosis,SNOMEDCT_US,1231710002,Pure liquid
+placental disorder,Diagnosis,SNOMEDCT_US,51195001,Placental polyp
+bleeding on tp,Diagnosis,SNOMEDCT_US,130584001,Tripeptidyl-peptidase II
+coughs up blood,Diagnosis,SNOMEDCT_US,66857006,Hemoptysis
+tinea corporis,Diagnosis,SNOMEDCT_US,84849002,Tinea corporis
+partner violence,Diagnosis,SNOMEDCT_US,1172623006,Support of victim of intimate partner violence
+ideopathic intercranial htn,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
+vanishing twin syndrome,Diagnosis,SNOMEDCT_US,237245006,Vanishing twin syndrome
+clubbing of fingers,Diagnosis,SNOMEDCT_US,367004,Clubbing
+inappropriate sinus tacchycardia,Diagnosis,SNOMEDCT_US,425582007,Inappropriate sinus tachycardia
+chronic serous otitis media of both ears,Diagnosis,SNOMEDCT_US,1084581000119102,Serous otitis media of bilateral ears
+eczema on hands & wrist,Diagnosis,SNOMEDCT_US,402221000,Acute-on-chronic vesicular eczema of hands
+difficulty with walking,Diagnosis,SNOMEDCT_US,719232003,Difficulty walking
+pneumococcal meningitis,Diagnosis,SNOMEDCT_US,51169003,Pneumococcal meningitis
+pubic symphysis dysfunction,Diagnosis,SNOMEDCT_US,417452004,Pubic bone dysfunction
+ventral hernia,Diagnosis,SNOMEDCT_US,414396006,Hernia of anterior abdominal wall
+excessive sweatiness,Diagnosis,SNOMEDCT_US,260378005,Excessive
+jaundice to abd head,Diagnosis,SNOMEDCT_US,258343008,ABD
+paralysis,Diagnosis,SNOMEDCT_US,44695005,Paralysis
+nabothian cysts,Diagnosis,SNOMEDCT_US,767356009,Mucous retention cyst of cervix uteri
+painful swallowing throat,Diagnosis,SNOMEDCT_US,30233002,Swallowing painful
+off lower quadrant pain,Diagnosis,SNOMEDCT_US,301716002,Left lower quadrant pain
+congenital mvp,Diagnosis,SNOMEDCT_US,384642005,Mitral valvuloplasty
+3- duanes syndrome,Diagnosis,SNOMEDCT_US,768713003,15q13.3 microduplication syndrome
+pregnancy induced htn,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
+liver hematoma,Diagnosis,SNOMEDCT_US,262796008,Liver hematoma
+pregnancy induced hypertension in third trimester,Diagnosis,SNOMEDCT_US,48194001,Pregnancy-induced hypertension
+polyps,Diagnosis,SNOMEDCT_US,9499001,Multiple polyps
+nevus,Diagnosis,SNOMEDCT_US,1163403006,Pigmented nevus
+mass on liver,Diagnosis,SNOMEDCT_US,300332007,Liver mass
+disorder of fetus or newborn,Diagnosis,SNOMEDCT_US,414025005,Disorder of fetus and/or newborn
+vaginal aching,Diagnosis,SNOMEDCT_US,410711009,Aching sensation quality
+petechial rash,Diagnosis,SNOMEDCT_US,423716004,Petechiae of skin
+congestion sneezing,Diagnosis,SNOMEDCT_US,76067001,Sneezing
+vision changes,Diagnosis,SNOMEDCT_US,416596008,Nail changes
+pitting edema to knees,Diagnosis,SNOMEDCT_US,5008001,Pitting edema
+bloody urine,Diagnosis,SNOMEDCT_US,255345002,Hemorrhagic
+"type 1 diabetes, pku",Diagnosis,SNOMEDCT_US,46635009,Type 1 diabetes mellitus
+erythema pain,Diagnosis,SNOMEDCT_US,247441003,Erythema
+fungal infection,Diagnosis,SNOMEDCT_US,3218000,Mycosis
+diabetes obesity,Diagnosis,SNOMEDCT_US,414916001,Obesity
+l ear pain,Diagnosis,SNOMEDCT_US,301354004,Pain of ear
+polyhydram,Diagnosis,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
+altered mental status,Diagnosis,SNOMEDCT_US,419284004,Altered mental status
+renal insufficien,Diagnosis,SNOMEDCT_US,441872001,Renal scarring
+hip disorders,Diagnosis,SNOMEDCT_US,67270000,Hip prosthesis
+disorientation,Diagnosis,SNOMEDCT_US,62476001,Disorientated
+social isolation,Diagnosis,SNOMEDCT_US,422650009,Social isolation
+infection with hiv,Diagnosis,SNOMEDCT_US,86406008,Human immunodeficiency virus infection
+chromosome disorders,Diagnosis,SNOMEDCT_US,64572001,Disease
+high bp,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
+lee edema,Diagnosis,SNOMEDCT_US,231605001,Medial Lee tarsorrhaphy
+covid-19 flu,Diagnosis,SNOMEDCT_US,840539006,COVID-19
+loss of hair,Diagnosis,SNOMEDCT_US,278040002,Loss of hair
+hemophilia or other blood disorders,Diagnosis,SNOMEDCT_US,89719007,Thyrotoxicosis without goiter or other cause
+anogenital tract infections,Diagnosis,SNOMEDCT_US,199112006,Infections of the genital tract in pregnancy
+redness edema,Diagnosis,SNOMEDCT_US,126662008,Redness of throat
+vulvar cyst,Diagnosis,SNOMEDCT_US,198227006,Furuncle of vulva
+gad,Diagnosis,SNOMEDCT_US,21897009,Generalized anxiety disorder
+charcot marie tooths disease,Diagnosis,SNOMEDCT_US,715801001,Charcot-Marie-Tooth disease type 4F
+fetal hyperglycemia,Diagnosis,SNOMEDCT_US,80394007,Hyperglycemia
+pre-existing hypertension during pregnancy,Diagnosis,SNOMEDCT_US,86041002,Pre-existing hypertension in obstetric context
+tonsillar abscess,Diagnosis,SNOMEDCT_US,44132006,Abscess morphology
+osteoarthritis,Diagnosis,SNOMEDCT_US,396275006,Osteoarthritis
+deficiency iron,Diagnosis,SNOMEDCT_US,35240004,Iron deficiency
+32 weeks gestation of pregnancy,Diagnosis,SNOMEDCT_US,7707000,"Gestation period, 32 weeks"
+red lesions on hands,Diagnosis,SNOMEDCT_US,16854002,Amandava amandava
+ectopic fetus,Diagnosis,SNOMEDCT_US,49964003,Ectopic fetus
+cephalopelvic disproportion,Diagnosis,SNOMEDCT_US,199397009,Cephalopelvic disproportion
+hb chain hemoglobinopathy,Diagnosis,SNOMEDCT_US,38082009,Hemoglobin
+edema to thighs,Diagnosis,SNOMEDCT_US,1304272004,Bilateral thigh edema
+weight gain of newbom,Diagnosis,SNOMEDCT_US,262286000,Weight increased
+wound seroma,Diagnosis,SNOMEDCT_US,239159001,Wound seroma
+di-di twins,Diagnosis,SNOMEDCT_US,768495008,Dexamethasone isonicotinate
+post partum hemorrhage,Diagnosis,SNOMEDCT_US,314483007,Primary post tonsillectomy hemorrhage
+chronic nasal congestion,Diagnosis,SNOMEDCT_US,68235000,Nasal congestion
+chlamydia neisseria gonorrhoeas,Diagnosis,SNOMEDCT_US,16241000,Chlamydia
+mono-di pregnancy,Diagnosis,SNOMEDCT_US,23696008,Catechol oxidase
+submandibular lymph node enlargement,Diagnosis,SNOMEDCT_US,59503006,Structure of submandibular lymph node
+n/v/d,Diagnosis,SNOMEDCT_US,19982009,Dead space gas volume
+maternal chronic hypertension in third trimester,Diagnosis,SNOMEDCT_US,48485000,Miscarriage in third trimester
+cetirizine 1 mg/ml oral solution common y know 2% syrtte take 5 ml (5 mg) by mouth 1 time a day as needed,Medicine,RXNORM,630475,sodium fluoride 5.56 MG/ML Oral Solution [Fluor a Day]
+vitamin d daily,Medicine,RXNORM,11253,vitamin D
+doxycycline hyclate 100 mg capsule,Medicine,RXNORM,1649988,doxycycline hyclate 100 MG Oral Capsule
+varicella virus (varivax) live vaccine 0.5 ml,Medicine,RXNORM,1292459,0.5 ML varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML Injection [Varivax]
+aspirin 81 mg cap,Medicine,RXNORM,218841,Oby-Cap
+rhogam,Medicine,RXNORM,204300,RhoGAM
+melatonin 5mg at bedtime,Medicine,RXNORM,318,adenosine triphosphate
+lidocaine 5 % topical ointment,Medicine,RXNORM,1543069,lidocaine 0.05 MG/MG Topical Ointment
+atorvastatin 10 mg,Medicine,RXNORM,597970,atorvastatin 10 MG
+pediarix),Medicine,RXNORM,352877,PEDIARIX
+pediarix vac- vpc,Medicine,RXNORM,352877,PEDIARIX
+meloxicam 7.5 mg oral tablet,Medicine,RXNORM,311486,meloxicam 7.5 MG Oral Tablet
+docusate sodium 100 mg oral capsule,Medicine,RXNORM,1247907,docusate sodium 100 MG Oral Capsule [Octycine-100]
+ibuprofen 600 mg oral tablet,Medicine,RXNORM,351391,ibuprofen 600 MG Oral Tablet [Ibifon 600]
+sodium chloride 0.9 % injection 2 ml,Medicine,RXNORM,1807636,2 ML sodium chloride 9 MG/ML Injection
+benzonatate (tessalon perles) 100 mg po caps take 1 capsule 3 times daily as needed,Medicine,RXNORM,218124,M-Caps
+ezetimibe (zetia) 10 mg po tabs take 1 tab by mouth every other day,Medicine,RXNORM,1358838,Sudo-Tab
+rosuvastatin (crestor) 5 mg po tabs take 1 tab by mouth every other day,Medicine,RXNORM,202609,Ery-Tab
+ezetimibe (zetia) 10 mg po tabs take 1 tab by mouth,Medicine,RXNORM,202609,Ery-Tab
+acetaminophen 325 mg tablet,Medicine,RXNORM,313782,acetaminophen 325 MG Oral Tablet
+amoxicillin 400 mg/5 ml oral suspension,Medicine,RXNORM,308189,amoxicillin 80 MG/ML Oral Suspension
+topamax 100 mg tablet:: take 1 tablet by oral route every day,Medicine,RXNORM,216081,Clear By Design
+fluconazole 150 mg,Medicine,RXNORM,315936,fluconazole 150 MG
+amoxicillin 875 mg,Medicine,RXNORM,329066,amoxicillin 875 MG
+vitamin d3,Medicine,RXNORM,1244014,vitamin D3
+topamax 100 mg tablet:: take 1 tablet by oral n route every day,Medicine,RXNORM,216081,Clear By Design
+vaseline,Medicine,RXNORM,224932,Vaseline
+hydrocortisone 2.5 % ointment,Medicine,RXNORM,103401,hydrocortisone 0.025 MG/MG Topical Ointment
+ozempic 0.25 mg or 0.5 mg (2 mg/1 5 ml) subcutarieous pen injector inject 0.25 mg every work by subcutaneous round,Medicine,RXNORM,1991311,"0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]"
+lantus cose twice a day,Medicine,RXNORM,1307849,Camellia oleifera seed extract
+acetaminophen 325 mg tablet instructions: take 2 tablets (650 mg total) by mouth every 4 hours as needed,Medicine,RXNORM,629024,By Ache
+novolog,Medicine,RXNORM,284810,NovoLog
+semglee (yfgn) 100 unit/ml solution pen-injector 45 units am and 45 units pm as directed subcutaneous every 12 hours,Medicine,RXNORM,2563975,insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee]
+basaglar kwikpen 100 unit/ml solution pen-injector 45 units as directed subcutaneous every 12 hours,Medicine,RXNORM,1736864,insulin glargine 100 UNT/ML Pen Injector [Basaglar]
+insulin glargine 100 unit/ml solution pen-injector 20 units am and 35 pm at night as directed subcutaneous twice daily,Medicine,RXNORM,1653497,insulin glargine Pen Injector
+prevnar 13),Medicine,RXNORM,901641,Prevnar 13
+ibuprofen (motrin) 20 mg/ml liquid 146 mg (146 mg oral,Medicine,RXNORM,1807578,20 ML sodium chloride 146 MG/ML Injection
+ibuprofen (motrin) 20 mg/ml,Medicine,RXNORM,544391,ibuprofen 20 MG/ML [Motrin]
+motrin 20mg/ml,Medicine,RXNORM,202488,Motrin
+prednisolone daily,Medicine,RXNORM,216351,Daily Hist
+polymyxin b,Medicine,RXNORM,8536,polymyxin B
+topiramate 50 mg once daily,Medicine,RXNORM,1482523,eslicarbazepine acetate 600 MG Oral Tablet [Aptiom]
+flovent hfa 110 mcg/actuation aerosol inhaler,Medicine,RXNORM,896011,60 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]
+tretinoin (retin-a) 0.025 % cream:: sig: apply 1 application topically at bedtime,Medicine,RXNORM,208331,tretinoin 1 MG/ML Topical Cream [Retin-A]
+hyoscyamine (anaspaz,Medicine,RXNORM,730601,hyoscyamine Disintegrating Oral Tablet [Anaspaz]
+depo-provera,Medicine,RXNORM,202886,Depo-Provera
+humalog 2 times a week,Medicine,RXNORM,1190357,deferiprone 500 MG Oral Tablet [Ferriprox]
+scopolamine 1 mg,Medicine,RXNORM,437724,scopolamine 1 MG
+boostrix vaccination,Medicine,RXNORM,583411,Boostrix
+ferrous sulfate 325 mg po daily,Medicine,RXNORM,329760,ferrous sulfate 325 MG
+ketorolac (toradol) injection 15 mg,Medicine,RXNORM,369148,ketorolac Oral Tablet [Toradol]
+doxycycline 100mg bid,Medicine,RXNORM,215969,Cevi-Bid
+estrace 0.01% (0.1 mg/gram) vaginal cream; at bedtime twice weekly,Medicine,RXNORM,890918,estradiol 0.1 MG/ML Vaginal Cream [Estrace]
+depo provera 150mg,Medicine,RXNORM,202886,Depo-Provera
+tylenol 325 mg oral capsule,Medicine,RXNORM,1738139,acetaminophen 325 MG Oral Capsule [Tylenol]
+penicillin g potassium,Medicine,RXNORM,203133,penicillin G potassium
+benadryl (diphenhydramine,Medicine,RXNORM,366257,diphenhydramine Oral Capsule [Benadryl]
+sodium chloride 0.9%,Medicine,RXNORM,351179,sodium chloride 9 MG/ML Nasal Spray
+shingrix,Medicine,RXNORM,1986826,Shingrix
+polyethylene glycol 3350 (polyethylene glycol 3350 oral powder,Medicine,RXNORM,1870357,polyethylene glycol 3350 Oral Powder Product
+rotateq) rvs,Medicine,RXNORM,496892,RotaTeq
+acetaminophen prn,Medicine,RXNORM,1152844,acetaminophen Rectal Product
+cetirizine (zyrtec) 1 mg/ml solution:: 5ig: take 2.5 ml by mouth one time a day,Medicine,RXNORM,2558502,cetirizine hydrochloride 2.5 MG [Zyrtec]
+varivax 0.5ml vaccine,Medicine,RXNORM,1292459,0.5 ML varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML Injection [Varivax]
+asmanex on flexhaler twice a day,Medicine,RXNORM,151781,Fluor a Day
+avastin injection,Medicine,RXNORM,1657067,bevacizumab Injection [Avastin]
+ofloxacin bid,Medicine,RXNORM,215969,Cevi-Bid
+rv1 (rotarix,Medicine,RXNORM,493191,Rotarix
+"olopatadine ophthalmic (1 drop, affected eye(s), bid, 5 ml",Medicine,RXNORM,897049,Amoxi Drop
+ tessalon perles 100 mg po caps take 1 capsule 3 times daily as needed,Medicine,RXNORM,218124,M-Caps
+azithromycin (zithromax z-pak) 250 mg po tabs sig: take 2 tabs by mouth on day 1,Medicine,RXNORM,750149,{6 (azithromycin 250 MG Oral Tablet [Zithromax]) } Pack [Z-PAK]
+jardiance 10 mg tablet take 1 tablet(s) every day by oral route,Medicine,RXNORM,216081,Clear By Design
+lantus solestar u-100 insulin 100 unit/ml (3 ml) subcutaneous pen,Medicine,RXNORM,847232,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]
+naproxen 500 mg tablet take 1 tablet(s) fwice a day by oral route,Medicine,RXNORM,216081,Clear By Design
+compazine,Medicine,RXNORM,203546,Compazine
+qvar redihaler 80 mcg/actuation hfa breath activated aerosol,Medicine,RXNORM,1998772,Breath-Actuated 120 ACTUAT beclomethasone dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]
+iron daily,Medicine,RXNORM,216351,Daily Hist
+"fluticasone propionate 50 mcg/actuation nasal spray,suspension: levalbuterol hfa 45 mcg/actuation aerosol inhaler:: inhale 2 spray by intranasal route every day",Medicine,RXNORM,1360200,fluticasone propionate 0.05 MG/ACTUAT Dry Powder Inhaler
+"ventolin hfa 90 mcg/inh inhalation aerosol 2 puff, inhalation, q4h",Medicine,RXNORM,859088,NDA020983 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]
+claritin,Medicine,RXNORM,203576,Claritin
+nose drops,Medicine,RXNORM,316958,Nose Drops
+maxalt,Medicine,RXNORM,218248,Maxalt
+chlorhexidine (hibiclens) 4 % external liquid,Medicine,RXNORM,834167,chlorhexidine gluconate 40 MG/ML Medicated Liquid Soap [Hibiclens]
+ibuprofen 800 mg tablet:: sig: take 800 mg by mouth every 6 (six) hours as needed,Medicine,RXNORM,206920,ibuprofen 800 MG Oral Tablet [Saleto-800]
+amoxil,Medicine,RXNORM,203169,Amoxil
+daptacel vaccine,Medicine,RXNORM,352572,Daptacel
+engerix-b,Medicine,RXNORM,49610,Engerix-B
+haemophilus influenzae type b,Medicine,RXNORM,50937,Haemophilus influenzae type b
+pedvaxhib,Medicine,RXNORM,798448,PedvaxHIB
+budesonide (pulmicort) 0.5 mg/2ml nebulizer suspension use 2 ml via nebulizer daily as needed,Medicine,RXNORM,616819,budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]
+vfc-vaxelis,Medicine,RXNORM,2109616,Vaxelis
+vfc-rotarix (rotavirus) dose,Medicine,RXNORM,721654,Metered Dose Inhaler
+deltasone 20mg tab,Medicine,RXNORM,202609,Ery-Tab
+lantus 10 units nightly,Medicine,RXNORM,261551,Lantus
+metformin 1000 mg twice daily,Medicine,RXNORM,2685014,Twice-Daily deferiprone 1000 MG Oral Tablet
+mycoplasma pneumoniae,Medicine,RXNORM,1360621,Mycoplasma pneumoniae
+oxytocin (pitocin) 30 units in 500 ml 0.9% sodium chloride infusion,Medicine,RXNORM,1807648,30 ML sodium chloride 9 MG/ML Injection
+havrix vpc,Medicine,RXNORM,203439,Havrix
+"infanrix (dtaP) 0.5 mL IM – contains diphtheria, tetanus, and acellular pertussis components (FHA, pertactin, pertussis toxoid)",Medicine,RXNORM,1300384,"0.5 ML Bordetella pertussis filamentous hemagglutinin vaccine, inactivated 0.05 MG/ML / Bordetella pertussis pertactin vaccine, inactivated 0.016 MG/ML / Bordetella pertussis toxoid vaccine, inactivated 0.05 MG/ML / diphtheria toxoid vaccine, inactivated 50 UNT/ML / tetanus toxoid vaccine, inactivated 20 UNT/ML Prefilled Syringe [Infanrix]"
+diphenhydramine,Medicine,RXNORM,3498,diphenhydramine
