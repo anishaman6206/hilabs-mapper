@@ -69,7 +69,6 @@ def main():
     text_col = col_map.get("input entity description") or col_map.get("entity description") or list(df.columns)[0]
     type_col = col_map.get("entity type") or "Entity Type"
 
-    # Get column positions for fast tuple access
     text_idx = df.columns.get_loc(text_col)
     type_idx = df.columns.get_loc(type_col) if type_col in df.columns else None
 
