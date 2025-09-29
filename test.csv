@@ -1,6 +1,6 @@
 ﻿Input Entity Description,Entity Type,Output Coding System,Output Target Code,Output Target Description
 mri pelvis,Procedure,SNOMEDCT_US,2690005,MRI of pelvis
-hcv rna,Procedure,SNOMEDCT_US,11705000,RNA virus
+hcv rna,Procedure,SNOMEDCT_US,187033005,Hepatitis C virus measurement
 depression screen,Procedure,SNOMEDCT_US,450752004,Whooley depression screen
 induction for prom,Procedure,SNOMEDCT_US,44223004,Premature rupture of membranes
 polypectomy,Procedure,SNOMEDCT_US,82035006,Resection of polyp
@@ -13,11 +13,11 @@ sono,Procedure,SNOMEDCT_US,16310003,Ultrasonography
 transvaginal ultrasound procedure,Procedure,SNOMEDCT_US,13205008,Transvaginal echography
 intracytoplasmic sperm injection,Procedure,SNOMEDCT_US,425901007,In vitro fertilization with intracytoplasmic spermatozoa injection
 ct brain,Procedure,SNOMEDCT_US,34227000,CT of brain
-iud removal,Procedure,SNOMEDCT_US,169484002,IUD removal awaited
-psychotherapy follow-up,Procedure,SNOMEDCT_US,308273005,Follow-up status
+iud removal,Procedure,SNOMEDCT_US,1263415006,Removal of intrauterine contraceptive device from uterine cavity
+psychotherapy follow-up,Procedure,SNOMEDCT_US,183644000,Surgical follow-up
 hpv dna,Procedure,SNOMEDCT_US,35904009,Human papillomavirus DNA detection
 chd repair,Procedure,SNOMEDCT_US,30174008,Childhood hypophosphatasia
-g1- vaginal delivery,Procedure,SNOMEDCT_US,289259007,Vaginal delivery
+g1- vaginal delivery,Procedure,SNOMEDCT_US,5556001,Manually assisted spontaneous delivery
 renal bladder ultrasound,Procedure,SNOMEDCT_US,786917009,Ultrasound urinary bladder vibrometry
 depression screening,Procedure,SNOMEDCT_US,171207006,Depression screening
 spinal anesthesia,Procedure,SNOMEDCT_US,231249005,Spinal anesthesia
@@ -28,16 +28,16 @@ epidural asa,Procedure,SNOMEDCT_US,387501005,Mesalamine
 contraception vasectomy,Procedure,SNOMEDCT_US,22523008,Vasectomy
 drainage of skin abscess,Procedure,SNOMEDCT_US,447075007,Drainage of abscess of skin
 mcv,Procedure,SNOMEDCT_US,165454002,Mean corpuscular volume above reference range
-osteoporosis screening,Procedure,SNOMEDCT_US,124801000119108,Osteoporosis screening declined
+osteoporosis screening,Procedure,SNOMEDCT_US,300004007,Screening for osteoporosis
 splenectomy,Procedure,SNOMEDCT_US,234319005,Splenectomy
 dental procedure,Procedure,SNOMEDCT_US,25325009,Dental alveoplasty
 abdominal us,Procedure,SNOMEDCT_US,45036003,Ultrasonography of abdomen
-vision screen vision screen,Procedure,SNOMEDCT_US,466738006,Bedside screen
+vision screen vision screen,Procedure,SNOMEDCT_US,117642006,Lysozyme screen
 right foot x-ray,Procedure,SNOMEDCT_US,426311001,Plain X-ray of right foot
-pilonidal cyst removal,Procedure,SNOMEDCT_US,47639008,Pilonidal cyst
+pilonidal cyst removal,Procedure,SNOMEDCT_US,702643008,Removal of pilonidal cyst
 color flow doppler,Procedure,SNOMEDCT_US,261197005,Doppler color flow - action
 total hysterectomy oophorectomy,Procedure,SNOMEDCT_US,739671004,Total hysterectomy with left oophorectomy
-vaginal laceration repair,Procedure,SNOMEDCT_US,314487008,Anterior mesh vaginal repair
+vaginal laceration repair,Procedure,SNOMEDCT_US,736531000,Repair of laceration of cornea
 biopsy of right cervical lymph node procedure,Procedure,SNOMEDCT_US,234270003,Biopsy of cervical lymph node
 excision of lesion of breast,Procedure,SNOMEDCT_US,392023007,Excision of lesion of breast
 staple removal,Procedure,SNOMEDCT_US,56353002,Staple
@@ -46,7 +46,7 @@ head us,Procedure,SNOMEDCT_US,241449005,US scan of head
 mri abdomen,Procedure,SNOMEDCT_US,241621009,MRI of abdomen
 cabg,Procedure,SNOMEDCT_US,232717009,Coronary artery bypass graft
 fasciotomies,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
-ovary removal,Procedure,SNOMEDCT_US,15497006,Ovarian structure
+ovary removal,Procedure,SNOMEDCT_US,5687005,Removal of foreign body from ovary
 chd screen,Procedure,SNOMEDCT_US,30174008,Childhood hypophosphatasia
 cardiac valve replacement,Procedure,SNOMEDCT_US,449621000124100,Porcine cardiac valve replacement
 right lumpectomy,Procedure,SNOMEDCT_US,735086001,Lumpectomy of right breast
@@ -59,14 +59,14 @@ partial l mastectomy,Procedure,SNOMEDCT_US,64368001,Partial mastectomy
 ivf,Procedure,SNOMEDCT_US,469571006,IVF medium
 re-exploratory laparotomy removal,Procedure,SNOMEDCT_US,74770008,Exploratory laparotomy
 amniocentess,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
-bilateral hip ultrasound,Procedure,SNOMEDCT_US,304909008,Bilateral hip joint
+bilateral hip ultrasound,Procedure,SNOMEDCT_US,241502008,US scan of hip
 tooth removed circumcised,Procedure,SNOMEDCT_US,260897002,Moiety removed
 screening for malignant neoplasm of cervix,Procedure,SNOMEDCT_US,171149006,Screening for malignant neoplasm of cervix
-blood products transfused,Procedure,SNOMEDCT_US,217005002,Mismatched blood transfused
+blood products transfused,Procedure,SNOMEDCT_US,116762002,Administration of blood product
 dm screening,Procedure,SNOMEDCT_US,111132001,Nitrous oxide
-fetal u/s,Procedure,SNOMEDCT_US,257999003,u
+fetal u/s,Procedure,SNOMEDCT_US,470921000124101,United States household food security survey module
 chemo,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
-breech birth,Procedure,SNOMEDCT_US,249116009,Breech engaged
+breech birth,Procedure,SNOMEDCT_US,417121007,Breech extraction
 hip u/s,Procedure,SNOMEDCT_US,203072009,Contracture of adductor muscle(s) of hip
 cpap,Procedure,SNOMEDCT_US,704718009,CPAP/BPAP oral mask
 loop electrical excision procedure,Procedure,SNOMEDCT_US,36899001,Loop electrosurgical excision procedure
@@ -84,32 +84,32 @@ ultrasound of fetal anatomy,Procedure,SNOMEDCT_US,710165007,Ultrasonography of f
 color doppler,Procedure,SNOMEDCT_US,423736003,Color Doppler ultrasound
 dna screening,Procedure,SNOMEDCT_US,36387003,DNA-directed DNA polymerase
 blood-drawphlebotomy,Procedure,SNOMEDCT_US,87612001,Blood
-peripheral stem call transplant,Procedure,SNOMEDCT_US,420942008,Call
+peripheral stem call transplant,Procedure,SNOMEDCT_US,308536008,Monitoring call
 xr chest portable,Procedure,SNOMEDCT_US,48244007,L-xylulose reductase
 vulvar biopsy,Procedure,SNOMEDCT_US,274942001,Biopsy of vulva
 digital tomosynthesis,Procedure,SNOMEDCT_US,1331948002,Digital tomosynthesis - action
 hpv screening,Procedure,SNOMEDCT_US,67778008,Human papillomavirus typing
 lead blood,Procedure,SNOMEDCT_US,35833009,"Lead screening, blood"
-nuchal translucency ultrasound,Procedure,SNOMEDCT_US,144201000119107,Fetal ultrasound increased nuchal translucency
+nuchal translucency ultrasound,Procedure,SNOMEDCT_US,408815001,Ultrasound scan for fetal nuchal translucency
 remove pacemaker,Procedure,SNOMEDCT_US,234668000,Remove jaw implant
-picc placement,Procedure,SNOMEDCT_US,1021000119106,Peripherally inserted central venous catheter in situ
+picc placement,Procedure,SNOMEDCT_US,782684008,Repair of peripherally inserted central catheter
 transuaginal us,Procedure,SNOMEDCT_US,412129003,Ubidecarenone
-encounter for screening for human papillomavirus,Procedure,SNOMEDCT_US,736427008,Screening for Human papillomavirus declined
+encounter for screening for human papillomavirus,Procedure,SNOMEDCT_US,700152009,Human papilloma virus screening
 afp,Procedure,SNOMEDCT_US,80152001,Alpha-1-Fetoprotein measurement
-screen for std,Procedure,SNOMEDCT_US,309932005,Genitourinary medicine department
-red blood cell transfusion,Procedure,SNOMEDCT_US,41898006,Erythrocyte
+screen for std,Procedure,SNOMEDCT_US,412712007,Referral to sexually transmitted infections clinic
+red blood cell transfusion,Procedure,SNOMEDCT_US,225068002,Red cell exchange transfusion
 colonescopy,Procedure,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
 anticardiolipin antibody,Lab,SNOMEDCT_US,65946008,Anticardiolipin antibody measurement
-human papilloma virus,Lab,SNOMEDCT_US,240532009,Human papilloma virus infection
-preg test u,Lab,SNOMEDCT_US,12018003,Trichophyton extract skin test
+human papilloma virus,Lab,SNOMEDCT_US,700152009,Human papilloma virus screening
+preg test u,Lab,SNOMEDCT_US,54605008,Delayed hypersensitivity skin test for Trichophyton
 hemoglobin alc,Lab,SNOMEDCT_US,425953004,Amphotericin B lipid complex
 tibc + ferritin serum,Lab,SNOMEDCT_US,275759006,Serum ferritin/TIBC measurement
 liver enzymee,Lab,SNOMEDCT_US,10200004,Liver structure
-maternal antibody screen,Lab,SNOMEDCT_US,312313001,Maternal antibody
+maternal antibody screen,Lab,SNOMEDCT_US,120646007,Antibody screen
 bile acids total,Lab,SNOMEDCT_US,5264008,Total bile acids measurement
 neutrophil,Lab,SNOMEDCT_US,30630007,Neutrophil count
 globulin cale,Lab,SNOMEDCT_US,371150009,Able
-alanine aminotransferase,Lab,SNOMEDCT_US,56935002,Alanine aminotransferase
+alanine aminotransferase,Lab,SNOMEDCT_US,34608000,Alanine aminotransferase measurement
 creatine,Lab,SNOMEDCT_US,14804005,Creatine
 antiphospholipid ab,Lab,SNOMEDCT_US,264781008,AB hearing assessment list
 triglycerick,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
@@ -120,43 +120,43 @@ lymphocyte s,Lab,SNOMEDCT_US,405888005,S+s+ phenotype
 urinalysis w/reflex microscopic,Lab,SNOMEDCT_US,127800008,Microscopic urinalysis
 hiv nucleic acid testing,Lab,SNOMEDCT_US,398579006,HIV 1 nucleic acid assay
 chloride,Lab,SNOMEDCT_US,50213009,Chloride salt
-antibody total serum hiv,Lab,SNOMEDCT_US,259855002,Human immunodeficiency virus antibody
+antibody total serum hiv,Lab,SNOMEDCT_US,250514000,Human immunodeficiency virus antibody titer measurement
 eosinophil absolute count,Lab,SNOMEDCT_US,365601007,Eosinophil count - finding
-"ketones, urine",Lab,SNOMEDCT_US,401762009,Urine ketones testing strips
+"ketones, urine",Lab,SNOMEDCT_US,401764005,Urine ketones testing tablets
 hsv antibodies,Lab,SNOMEDCT_US,9389005,Herpes simplex keratitis
 lactate,Lab,SNOMEDCT_US,83036002,Lactate
 aspartate aminotrans,Lab,SNOMEDCT_US,430504000,Aspartate
 microalbumin/creatinine ratio,Lab,SNOMEDCT_US,271076007,Urine microalbumin/creatinine ratio measurement
 protein/creatining panel,Lab,SNOMEDCT_US,54610007,Kidney panel
-basophils,Lab,SNOMEDCT_US,417389002,Disorder of basophils
+basophils,Lab,SNOMEDCT_US,63987006,Histamine release from basophils measurement
 b varicella zosten antibody,Lab,SNOMEDCT_US,77525008,B cell antibody
 total iron,Lab,SNOMEDCT_US,117173006,Total iron binding capacity
 candida krusei pcr,Lab,SNOMEDCT_US,9718006,Polymerase chain reaction analysis
 "partial thromboplastin time, activated",Lab,SNOMEDCT_US,42525009,"Partial thromboplastin time, activated"
 gclchlamydia urine,Lab,SNOMEDCT_US,78014005,Urine
 iga ab,Lab,SNOMEDCT_US,708770002,Rotavirus IgA
-ketones chemistry urine,Lab,SNOMEDCT_US,401762009,Urine ketones testing strips
-serum folate serum,Lab,SNOMEDCT_US,165649003,Serum folate within reference range
+ketones chemistry urine,Lab,SNOMEDCT_US,167509001,Urine - bile chemistry measurement
+serum folate serum,Lab,SNOMEDCT_US,60306005,"Folic acid measurement, serum"
 leuks,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
 blood count,Lab,SNOMEDCT_US,26604007,Complete blood count
 influenza a + b pcr,Lab,SNOMEDCT_US,68174001,Pyrroline-2-carboxylate reductase
 fetal hgb stain,Lab,SNOMEDCT_US,38082009,Hemoglobin
 hiv exposure test,Lab,SNOMEDCT_US,31676001,HIV antigen test
-bilo acids,Lab,SNOMEDCT_US,259544005,Conjugated bile acids
+bilo acids,Lab,SNOMEDCT_US,269862009,Measurement of serum amino acid level
 ast labs,Lab,SNOMEDCT_US,45896001,Aspartate aminotransferase measurement
 alpha-fetoprotein test,Lab,SNOMEDCT_US,275833003,Alpha-fetoprotein test - antenatal
 hdl panel,Lab,SNOMEDCT_US,9422000,High density lipoprotein
 chol/hdlc ratio,Lab,SNOMEDCT_US,313811003,Cholesterol/HDL ratio measurement
-wound culture + smear,Lab,SNOMEDCT_US,401294003,"Wound microscopy, culture and sensitivities"
+wound culture + smear,Lab,SNOMEDCT_US,168144008,No organism isolated in wound swab by culture
 protein 24h un,Lab,SNOMEDCT_US,61466002,Uridine nucleosidase
 protein. total,Lab,SNOMEDCT_US,304383000,Total protein measurement
 ggt,Lab,SNOMEDCT_US,60153001,Gamma-glutamyltransferase
 hemoglobin c,Lab,SNOMEDCT_US,61967003,Hemoglobin C
-growth hormone,Lab,SNOMEDCT_US,75476008,Bovine growth hormone
+growth hormone,Lab,SNOMEDCT_US,294825001,Allergy to somatropin hormone
 erythrocyte sediment rate,Lab,SNOMEDCT_US,365649001,Erythrocyte sedimentation rate - finding
 ferritin scrum,Lab,SNOMEDCT_US,32789000,Ferritin
-reactive hepatitis c antibody,Lab,SNOMEDCT_US,72165005,Hepatitis C virus antibody
-islet cell antibodies,Lab,SNOMEDCT_US,274944000,Islet cell adenomatosis
+reactive hepatitis c antibody,Lab,SNOMEDCT_US,314706002,Hepatitis C antibody detected
+islet cell antibodies,Lab,SNOMEDCT_US,64135003,Islet cell antibody measurement
 tacrolimus level,Lab,SNOMEDCT_US,391379002,Blood tacrolimus level
 reactive hiv-1 antigen,Lab,SNOMEDCT_US,117747006,HIV 1 antigen assay
 urobilinogen urine,Lab,SNOMEDCT_US,67410005,"Urobilinogen measurement, urine"
@@ -164,7 +164,7 @@ immature retic fraction,Lab,SNOMEDCT_US,413042008,Immature reticulocyte fraction
 "lactic acid, plasma",Lab,SNOMEDCT_US,77370004,Lactic acid
 protein/creatining ratio,Lab,SNOMEDCT_US,124013006,Serum protein ratio
 hgb a2,Lab,SNOMEDCT_US,38082009,Hemoglobin
-ldl chol,Lab,SNOMEDCT_US,22244007,Low density lipoprotein
+ldl chol,Lab,SNOMEDCT_US,166855002,Lipoprotein electroph. - LDL
 hep c,Lab,SNOMEDCT_US,25525005,Protein C
 ua reflex,Lab,SNOMEDCT_US,87572000,Reflex
 total testosterone,Lab,SNOMEDCT_US,85470006,"Testosterone measurement, total"
@@ -179,30 +179,30 @@ o2 level,Lab,SNOMEDCT_US,455651000124105,US Military Commissioned Officer O2
 urine opiates,Lab,SNOMEDCT_US,314083002,Urine opiates screening test
 hgb electrophorosis,Lab,SNOMEDCT_US,38082009,Hemoglobin
 rapid flu b,Lab,SNOMEDCT_US,6142004,Influenza
-hemoglobin a1c percent,Lab,SNOMEDCT_US,733830002,Glycated hemoglobin-A1c
-liver profile,Lab,SNOMEDCT_US,700501004,DoloTest profile
-ana antibody screen,Lab,SNOMEDCT_US,45530001,Antinuclear antibody
-wbc. ur,Lab,SNOMEDCT_US,52501007,Leukocyte
+hemoglobin a1c percent,Lab,SNOMEDCT_US,43396009,Hemoglobin A1c measurement
+liver profile,Lab,SNOMEDCT_US,165877005,Autoimmunity profile
+ana antibody screen,Lab,SNOMEDCT_US,359788000,ANA measurement
+wbc. ur,Lab,SNOMEDCT_US,767002,White blood cell count
 hep c antibody,Lab,SNOMEDCT_US,25525005,Protein C
 plt plt,Lab,SNOMEDCT_US,16378004,Platelet
 ph. urine,Lab,SNOMEDCT_US,271348005,Urine dipstick for pH
 ck2,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
 fibrinogen titer,Lab,SNOMEDCT_US,397636002,Fibrinogen titer
 influenza a by,Lab,SNOMEDCT_US,442438000,Influenza caused by Influenza A virus
-prenatal glucose tolerance,Lab,SNOMEDCT_US,9414007,Impaired glucose tolerance
+prenatal glucose tolerance,Lab,SNOMEDCT_US,251402003,Small intestine glucose tolerance
 absolute monocytes,Lab,SNOMEDCT_US,56136002,Absolute
 vitamin d levels,Lab,SNOMEDCT_US,767613006,Vitamin D analog
 specific gravity urine dipstick,Lab,SNOMEDCT_US,252386004,Urine dipstick for specific gravity
-vaginal organism swab,Lab,SNOMEDCT_US,258520000,Vaginal swab
-stool occult blood,Lab,SNOMEDCT_US,59614000,Occult blood detected in feces
+vaginal organism swab,Lab,SNOMEDCT_US,301874004,Taking vaginal swab
+stool occult blood,Lab,SNOMEDCT_US,167849002,Vomit occult blood
 glucose load testing,Lab,SNOMEDCT_US,1268649009,Viral load
 influenza a+b ag,Lab,SNOMEDCT_US,121008006,Influenza B virus antigen
 chco3,Lab,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
 cbc w/diff,Lab,SNOMEDCT_US,43789009,Complete blood count without differential
-sore thraot,Diagnosis,SNOMEDCT_US,410713007,Sore sensation quality
+sore thraot,Diagnosis,SNOMEDCT_US,275321000,Vulva sore
 hyperglycernia,Diagnosis,SNOMEDCT_US,861171000124107,Inadequate digital access due to inadequate internet service in geographical region
-fast breathing,Diagnosis,SNOMEDCT_US,227998008,Convenience food
-subgaleal bleed,Diagnosis,SNOMEDCT_US,89361003,Subgaleal area
+fast breathing,Diagnosis,SNOMEDCT_US,423350005,Fast acetylator due to N-acetyltransferase enzyme variant
+subgaleal bleed,Diagnosis,SNOMEDCT_US,276622005,Subgaleal hemorrhage
 thyroid disorders,Diagnosis,SNOMEDCT_US,64572001,Disease
 ocd,Diagnosis,SNOMEDCT_US,82562007,Osteochondritis dissecans
 adhd anxiety,Diagnosis,SNOMEDCT_US,117431000119101,Long term current use of drug therapy for attention deficit hyperactivity disorder
@@ -218,12 +218,12 @@ herpes zoster without complication,Diagnosis,SNOMEDCT_US,111859007,Herpes zoster
 itching on the palms of her hands,Diagnosis,SNOMEDCT_US,890090001,Itching of both hands
 bilateral non-pitting edema of legs,Diagnosis,SNOMEDCT_US,420435001,Non-pitting edema
 allergic rhinitis,Diagnosis,SNOMEDCT_US,61582004,Allergic rhinitis
-pure hypercholesterolemiz,Diagnosis,SNOMEDCT_US,1231710002,Pure liquid
+pure hypercholesterolemiz,Diagnosis,SNOMEDCT_US,267433009,Pure hyperglyceridemia
 placental disorder,Diagnosis,SNOMEDCT_US,51195001,Placental polyp
 bleeding on tp,Diagnosis,SNOMEDCT_US,130584001,Tripeptidyl-peptidase II
 coughs up blood,Diagnosis,SNOMEDCT_US,66857006,Hemoptysis
 tinea corporis,Diagnosis,SNOMEDCT_US,84849002,Tinea corporis
-partner violence,Diagnosis,SNOMEDCT_US,1172623006,Support of victim of intimate partner violence
+partner violence,Diagnosis,SNOMEDCT_US,706893006,Victim of intimate partner abuse
 ideopathic intercranial htn,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
 vanishing twin syndrome,Diagnosis,SNOMEDCT_US,237245006,Vanishing twin syndrome
 clubbing of fingers,Diagnosis,SNOMEDCT_US,367004,Clubbing
@@ -234,13 +234,13 @@ difficulty with walking,Diagnosis,SNOMEDCT_US,719232003,Difficulty walking
 pneumococcal meningitis,Diagnosis,SNOMEDCT_US,51169003,Pneumococcal meningitis
 pubic symphysis dysfunction,Diagnosis,SNOMEDCT_US,417452004,Pubic bone dysfunction
 ventral hernia,Diagnosis,SNOMEDCT_US,414396006,Hernia of anterior abdominal wall
-excessive sweatiness,Diagnosis,SNOMEDCT_US,260378005,Excessive
+excessive sweatiness,Diagnosis,SNOMEDCT_US,249272007,Excessive smegma
 jaundice to abd head,Diagnosis,SNOMEDCT_US,258343008,ABD
 paralysis,Diagnosis,SNOMEDCT_US,44695005,Paralysis
 nabothian cysts,Diagnosis,SNOMEDCT_US,767356009,Mucous retention cyst of cervix uteri
 painful swallowing throat,Diagnosis,SNOMEDCT_US,30233002,Swallowing painful
 off lower quadrant pain,Diagnosis,SNOMEDCT_US,301716002,Left lower quadrant pain
-congenital mvp,Diagnosis,SNOMEDCT_US,384642005,Mitral valvuloplasty
+congenital mvp,Diagnosis,SNOMEDCT_US,1340071008,Malignant vagal paraganglioma
 3- duanes syndrome,Diagnosis,SNOMEDCT_US,768713003,15q13.3 microduplication syndrome
 pregnancy induced htn,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
 liver hematoma,Diagnosis,SNOMEDCT_US,262796008,Liver hematoma
@@ -254,7 +254,7 @@ petechial rash,Diagnosis,SNOMEDCT_US,423716004,Petechiae of skin
 congestion sneezing,Diagnosis,SNOMEDCT_US,76067001,Sneezing
 vision changes,Diagnosis,SNOMEDCT_US,416596008,Nail changes
 pitting edema to knees,Diagnosis,SNOMEDCT_US,5008001,Pitting edema
-bloody urine,Diagnosis,SNOMEDCT_US,255345002,Hemorrhagic
+bloody urine,Diagnosis,SNOMEDCT_US,91369002,Bloody discharge
 "type 1 diabetes, pku",Diagnosis,SNOMEDCT_US,46635009,Type 1 diabetes mellitus
 erythema pain,Diagnosis,SNOMEDCT_US,247441003,Erythema
 fungal infection,Diagnosis,SNOMEDCT_US,3218000,Mycosis
@@ -265,16 +265,16 @@ altered mental status,Diagnosis,SNOMEDCT_US,419284004,Altered mental status
 renal insufficien,Diagnosis,SNOMEDCT_US,441872001,Renal scarring
 hip disorders,Diagnosis,SNOMEDCT_US,67270000,Hip prosthesis
 disorientation,Diagnosis,SNOMEDCT_US,62476001,Disorientated
-social isolation,Diagnosis,SNOMEDCT_US,422650009,Social isolation
+social isolation,Diagnosis,SNOMEDCT_US,77096008,Social isolation (rejection)
 infection with hiv,Diagnosis,SNOMEDCT_US,86406008,Human immunodeficiency virus infection
 chromosome disorders,Diagnosis,SNOMEDCT_US,64572001,Disease
 high bp,Diagnosis,SNOMEDCT_US,38341003,Hypertensive disorder
-lee edema,Diagnosis,SNOMEDCT_US,231605001,Medial Lee tarsorrhaphy
+lee edema,Diagnosis,SNOMEDCT_US,202855006,Lateral epicondylitis
 covid-19 flu,Diagnosis,SNOMEDCT_US,840539006,COVID-19
 loss of hair,Diagnosis,SNOMEDCT_US,278040002,Loss of hair
 hemophilia or other blood disorders,Diagnosis,SNOMEDCT_US,89719007,Thyrotoxicosis without goiter or other cause
 anogenital tract infections,Diagnosis,SNOMEDCT_US,199112006,Infections of the genital tract in pregnancy
-redness edema,Diagnosis,SNOMEDCT_US,126662008,Redness of throat
+redness edema,Diagnosis,SNOMEDCT_US,1268301006,Redness of skin of face
 vulvar cyst,Diagnosis,SNOMEDCT_US,198227006,Furuncle of vulva
 gad,Diagnosis,SNOMEDCT_US,21897009,Generalized anxiety disorder
 charcot marie tooths disease,Diagnosis,SNOMEDCT_US,715801001,Charcot-Marie-Tooth disease type 4F
@@ -283,8 +283,8 @@ pre-existing hypertension during pregnancy,Diagnosis,SNOMEDCT_US,86041002,Pre-ex
 tonsillar abscess,Diagnosis,SNOMEDCT_US,44132006,Abscess morphology
 osteoarthritis,Diagnosis,SNOMEDCT_US,396275006,Osteoarthritis
 deficiency iron,Diagnosis,SNOMEDCT_US,35240004,Iron deficiency
-32 weeks gestation of pregnancy,Diagnosis,SNOMEDCT_US,7707000,"Gestation period, 32 weeks"
-red lesions on hands,Diagnosis,SNOMEDCT_US,16854002,Amandava amandava
+32 weeks gestation of pregnancy,Diagnosis,SNOMEDCT_US,313178001,Gestation less than 24 weeks
+red lesions on hands,Diagnosis,SNOMEDCT_US,95548009,Retroperitoneal edema
 ectopic fetus,Diagnosis,SNOMEDCT_US,49964003,Ectopic fetus
 cephalopelvic disproportion,Diagnosis,SNOMEDCT_US,199397009,Cephalopelvic disproportion
 hb chain hemoglobinopathy,Diagnosis,SNOMEDCT_US,38082009,Hemoglobin
@@ -296,8 +296,8 @@ post partum hemorrhage,Diagnosis,SNOMEDCT_US,314483007,Primary post tonsillectom
 chronic nasal congestion,Diagnosis,SNOMEDCT_US,68235000,Nasal congestion
 chlamydia neisseria gonorrhoeas,Diagnosis,SNOMEDCT_US,16241000,Chlamydia
 mono-di pregnancy,Diagnosis,SNOMEDCT_US,23696008,Catechol oxidase
-submandibular lymph node enlargement,Diagnosis,SNOMEDCT_US,59503006,Structure of submandibular lymph node
-n/v/d,Diagnosis,SNOMEDCT_US,19982009,Dead space gas volume
+submandibular lymph node enlargement,Diagnosis,SNOMEDCT_US,274741002,Generalized enlarged lymph nodes
+n/v/d,Diagnosis,SNOMEDCT_US,183739001,Pediatric domiciliary visit done
 maternal chronic hypertension in third trimester,Diagnosis,SNOMEDCT_US,48485000,Miscarriage in third trimester
 cetirizine 1 mg/ml oral solution common y know 2% syrtte take 5 ml (5 mg) by mouth 1 time a day as needed,Medicine,RXNORM,630475,sodium fluoride 5.56 MG/ML Oral Solution [Fluor a Day]
 vitamin d daily,Medicine,RXNORM,11253,vitamin D
